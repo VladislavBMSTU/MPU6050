@@ -1,0 +1,6 @@
+../Src/i2c.c:29:6:i2c_init	4	static
+../Src/i2c.c:45:6:i2c_readByte	16	static
+../Src/i2c.c:70:6:i2c_writeByte	16	static
+../Src/i2c.c:90:6:i2c_WriteMulti	32	static
+../Src/i2c.c:113:6:i2c_ReadMulti	24	static
+../Src/i2c.c:151:6:i2c_bus_scan	24	static

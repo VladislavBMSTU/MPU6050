@@ -1,0 +1,5 @@
+C:/Users/Public/Documents/STM32_CUBE/MPU6050/F4_chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/time_base.c:16:6:Ticks_Init	1
+../Src/time_base.c:41:6:SysTick_Handler	1
+../Src/time_base.c:47:10:get_Ticks	1
+../Src/time_base.c:54:6:delay	2
